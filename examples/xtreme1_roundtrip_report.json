@@ -12,9 +12,10 @@
       "original_annotation_count": 30
     },
     {
-      "instance_token": "c1958768d48640948f6053d04cffd35b",
-      "category": "vehicle.car",
-      "original_annotation_count": 39
+
+        "instance_token": "c1958768d48640948f6053d04cffd35b",
+        "category": "vehicle.car",
+        "original_annotation_count": 39
     }
   ]
 }
