@@ -1,0 +1,20 @@
+{
+  "scene": "scene-0061",
+  "frames": 39,
+  "xtreme1_source": "Ground Truth",
+  "original_scene_annotations": 4699,
+  "xtreme1_exported_objects": 4630,
+  "deleted_annotations": 69,
+  "removed_instances": [
+    {
+      "instance_token": "e91afa15647c4c4994f19aeb302c7179",
+      "category": "vehicle.truck",
+      "original_annotation_count": 30
+    },
+    {
+      "instance_token": "c1958768d48640948f6053d04cffd35b",
+      "category": "vehicle.car",
+      "original_annotation_count": 39
+    }
+  ]
+}
