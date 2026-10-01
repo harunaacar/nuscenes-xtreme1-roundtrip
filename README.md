@@ -16,6 +16,7 @@ flowchart TD
     D --> E[Xtreme1 to nuScenes]
     E --> F[Reload verification]
 ```
+[![Architecture diagram of harunaacar/nuscenes-xtreme1-roundtrip](https://gitdiagram.com/harunaacar/nuscenes-xtreme1-roundtrip/diagram.png)](https://gitdiagram.com/harunaacar/nuscenes-xtreme1-roundtrip?utm_source=readme&utm_medium=picture)
 
 ## Features
 
